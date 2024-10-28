@@ -1,0 +1,4 @@
+D:\Daily Yangcong\desk\C++\Project1\x64\Debug\Project1.exe
+D:\Daily Yangcong\desk\C++\Project1\x64\Debug\Project1.pdb
+D:\OneDrive\桌面\C++\pro1\x64\Debug\Project1.exe
+D:\OneDrive\桌面\C++\ComputerRoomSystem\x64\Debug\Project1.exe

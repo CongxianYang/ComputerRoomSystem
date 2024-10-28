@@ -1,0 +1,5 @@
+﻿  tesr.cpp
+  TRACKER : 错误 TRK0005: 未能找到: “link.exe”。系统找不到指定的文件。
+  
+  
+D:\APP\vs\vs2019\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(876,5): error MSB6006: “link.exe”已退出，代码为 5。
